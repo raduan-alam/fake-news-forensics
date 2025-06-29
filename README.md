@@ -43,10 +43,6 @@ These were selected for their ability to capture **drama, intensity, and emotion
 - They tend to have **stronger sentiment polarity**
 - Use of **ALL CAPS** is disproportionately higher in fake titles
 
-> These are *interpretable patterns* interviewers and professors love.
-
----
-
 ## 🔮 Model Details
 
 | Component | Technique |
