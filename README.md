@@ -30,8 +30,6 @@ These were selected for their ability to capture **drama, intensity, and emotion
 
 ## 📊 Visual Insights
 
-## 📊 Visual Insights
-
 ### 📈 Exclamation Mark Distribution
 <img src="exclamation_plot.png" width="500"/>
 
