@@ -30,7 +30,16 @@ These were selected for their ability to capture **drama, intensity, and emotion
 
 ## 📊 Visual Insights
 
-<img src="https://your-image-link.com" alt="Boxplot of features" width="500"/>
+## 📊 Visual Insights
+
+### 📈 Exclamation Mark Distribution
+<img src="exclamation_plot.png" width="500"/>
+
+### 📉 Sentiment Score by News Type
+<img src="sentiment_score_plot.png" width="500"/>
+
+### 🔊 ALL CAPS Usage
+<img src="allcaps_plot.png" width="500"/>
 
 - Fake headlines show **higher exclamation counts**
 - They tend to have **stronger sentiment polarity**
